@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Noticias Conflicto Rusia-Ucrania]]></title>
+        <description><![CDATA[Serie de noticias de actualidad referentes al conflicto que se está desarrollando actualmente entre Rusia y Ucrania.]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 08 Apr 2022 17:44:28 GMT</lastBuildDate>
+        <language><![CDATA[es]]></language>
+        <item>
+            <title><![CDATA[Miles de rusos abandonan su patria desde el inicio de la guerra: "El país es como un gigantesco barco que se hunde"]]></title>
+            <description><![CDATA[Precipitarse en la incertidumbre del exilio para no agachar la cabeza o sufrir la represión por disentir. Es el camino que miles de ciudadanos rusos han emprendido en las últimas semanas ante la deriva del Gobierno de Vladímir Putin y la imposibilidad de proseguir con una vida consecuente en su propia patria…]]></description>
+            <guid isPermaLink="false">Miles de rusos abandonan su patria desde el inicio de la guerra: &quot;El país es como un gigantesco barco que se hunde&quot;</guid>
+            <dc:creator><![CDATA[África Albalá]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Ucrania pide en persona a la OTAN "armas, armas y armas" antes de una ofensiva en el Donbás "como las de la Segunda Guerra Mundial"]]></title>
+            <description><![CDATA["Armas, armas, armas". Ucrania lleva semanas pidiendo, suplicando, más ayuda por parte de sus vecinos, socios y aliados. Lo ha hecho de todas las formas posibles, por escrito, en mensajes de televisión, por videoconferencias a los parlamentos nacionales y en las reuniones de la UE y la OTAN. Y lo ha hecho una vez más este jueves en Bruselas, en persona, por boca de su ministro de Exteriores, Dmitro Kuleba…]]></description>
+            <guid isPermaLink="false">Ucrania pide en persona a la OTAN &quot;armas, armas y armas&quot; antes de una ofensiva en el Donbás &quot;como las de la Segunda Guerra Mundial&quot;</guid>
+            <dc:creator><![CDATA[Pablo R. Suanzes]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Mueren al menos 39 personas en un bombardeo en la estación de Kramatorsk, al este de Ucrania]]></title>
+            <description><![CDATA[Un ataque con cohetes ha alcanzado la estación de tren de Kramatorsk, en la región de Donetsk (este de Ucrania), y ha causado al menos 39 muertos, entre ellos cuatro niños, y 87 heridos, según los servicios de emergencia ucranianos. Las imágenes muestran cadáveres esparcidos a la entrada de la estación junto a los equipajes…]]></description>
+            <guid isPermaLink="false">Mueren al menos 39 personas en un bombardeo en la estación de Kramatorsk, al este de Ucrania</guid>
+            <dc:creator><![CDATA[RTVE.es]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Johnson planea enviar blindados a Ucrania tras la petición del Gobierno de Zelenski de "armas, armas y más armas" a la OTAN]]></title>
+            <description><![CDATA[Armas, armas y más armas". Así se resume la petición directa a la OTAN del ministro de Asuntos Exteriores ucraniano Dimitro Kuleba a su paso por Bruselas. Desde Londres, mientras, el "premier" Boris Johnson anticipaba el envío de la primera remesa vehículos blindados, tras la decisión de la República Checa de enviar cinco tanques T-72, para permitir el avance de las tropas ucranianas hacia las líneas rusas…]]></description>
+            <guid isPermaLink="false">Johnson planea enviar blindados a Ucrania tras la petición del Gobierno de Zelenski de &quot;armas, armas y más armas&quot; a la OTAN</guid>
+            <dc:creator><![CDATA[Carlos Fresneda]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[La inteligencia alemana graba conversaciones de soldados rusos que prueban el asesinato de civiles en Bucha]]></title>
+            <description><![CDATA[Los servicios de inteligencia alemanes (BND) han interceptado transmisiones de radio entre militares rusos en Ucrania que demuestran que las muertes de civiles no son acciones aisladas, sino parte de una estrategia de terror para sofocar la resistencia…]]></description>
+            <guid isPermaLink="false">La inteligencia alemana graba conversaciones de soldados rusos que prueban el asesinato de civiles en Bucha</guid>
+            <dc:creator><![CDATA[Carmen Valero]]></dc:creator>
+        </item>
+    </channel>
+</rss>
