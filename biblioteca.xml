@@ -1,15 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<?xml-stylesheet href="https://rdhlaura.github.io/trabajo11_LM/biblioteca.xsl" type="text/xsl"?>
 <biblioteca> 
-    <libro> 
-        <titulo>Lenguaje de marcas</titulo> 
+    <libro cod="1"> 
+        <titulo>Libro 1</titulo> 
         <autor>Autor 1</autor> 
-        <año>1994</año> 
-        <editorial>Editorial 1</editorial> 
+        <anyo>2012</anyo> 
+        <editorial>Planeta</editorial> 
     </libro> 
-    <libro> 
-        <titulo>XML</titulo> 
-        <autor>Autor 1</autor> 
-        <año>2002</año> 
-        <editorial>Editorial 2</editorial> 
+    <libro cod="2"> 
+        <titulo>Libro 2</titulo> 
+        <autor>Autor 2</autor> 
+        <anyo>2022</anyo> 
+        <editorial>Planeta</editorial> 
     </libro> 
 </biblioteca>
