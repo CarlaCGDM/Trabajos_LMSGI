@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
-<?xml-stylesheet href="https://github.com/CarlaCGDM/LMSGI_Trabajo10/blob/main/biblioteca.xsl" type="text/xsl"?>
+<?xml-stylesheet href="https://carlacgdm.github.io/LMSGI_Trabajo10/biblioteca.xsl" type="text/xsl"?>
 <biblioteca> 
     <libro cod="1"> 
         <titulo>Libro 1</titulo> 
